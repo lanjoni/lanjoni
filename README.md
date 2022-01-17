@@ -29,7 +29,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-<!-- 
+
 ##
 
 <div align="center"> 
@@ -41,10 +41,10 @@
  <a href="https://discord.gg/5unPwKVETX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaoaugustolanjoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/gutoso/gutoso/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/gutoso/gutoso/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
---> 
+
 <!---
 👻 thank you 👻
 
