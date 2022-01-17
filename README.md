@@ -4,6 +4,12 @@
 - 👽 I’m looking to collaborate on open source projects and others...
 - 📫 How to reach me: @gutolanjoni on Twitter...
 
+<div align="center">
+  <a href="https://github.com/gutoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gutoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!---
 👻 thank you 👻
 
