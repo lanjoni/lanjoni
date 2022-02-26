@@ -26,6 +26,18 @@
   <img align="center" alt="RedHat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" />
 </div>
 
+##
+
+<div align="center" border-radius="20px"> 
+ <a href="https://twitter.com/gutolanjoni" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gutolanjoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/joão-augusto-lissoni-lanjoni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/guto" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/holly1v4" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5unPwKVETX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaoaugustolanjoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 <!-- - 👋 Hi, I’m @gutoso
 - 👀 I’m interested in expand knowledge related to programming.
