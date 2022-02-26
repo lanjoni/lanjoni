@@ -7,10 +7,10 @@
 <img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" min-width="100px" max-width="200px" width="180px" align="right" alt="Linux">
 
 <div align="left">
-<p> - 👋 Hi, I’m @gutoso </p>
-<p> - 👀 I’m interested in expand knowledge related to programming. </p>
-<p> - 🌱 I’m developer in HTML5, CSS, PHP, JavaScript, Java, PostGreSQL, among others. </p>
-<p> - 👽 I’m looking to collaborate on open source projects! </p>
+<p> - 👋 Hello, I’m @gutoso! </p>
+<p> - 💻 I’m interested in expand knowledge related to programming! </p>
+<p> - 💎 I’m developer in Java, JavaScript, TypeScript, Crystal, among others... </p>
+<p> - 🔮 I’m looking to collaborate on open source projects! </p>
 <p> - 📫 How to reach me: @gutolanjoni on Twitter or send me an email at joaoaugustolanjoni@gmail.com! </p>
 </div>
 
