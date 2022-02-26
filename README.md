@@ -1,4 +1,22 @@
-<img src="https://i.imgur.com/qMQiDSH.gifg" width="100%"/>
+<!-- <img src="https://i.imgur.com/qMQiDSH.gifg" width="100%"/> -->
+<div>
+<!-- <img src="https://c.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif" min-width="100px" max-width="200px" width="180px" align="right" alt="Linux"> -->
+
+<!-- <img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" min-width="100px" max-width="200px" width="180px" align="right" alt="Linux"> -->
+  
+<img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" min-width="100px" max-width="200px" width="180px" align="right" alt="Linux">
+
+<div align="left">
+<p> - 👋 Hi, I’m @gutoso </p>
+<p> - 👀 I’m interested in expand knowledge related to programming. </p>
+<p> - 🌱 I’m developer in HTML5, CSS, PHP, JavaScript, Java, PostGreSQL, among others. </p>
+<p> - 👽 I’m looking to collaborate on open source projects! </p>
+<p> - 📫 How to reach me: @gutolanjoni on Twitter or send me an email at joaoaugustolanjoni@gmail.com! </p>
+</div>
+
+##
+  
+</div>
 
 <div align="center">
 <img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoso&show_icons=true&theme=tokyonight&bg_color=DEG,001,002,003&hide=contribs"/>
