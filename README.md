@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @gutoso
+<img src="https://i.imgur.com/qMQiDSH.gifg" width="100%"/>
+
+<div align="center">
+<img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoso&show_icons=true&theme=tokyonight&bg_color=DEG,001,002,003&hide=contribs"/>
+<img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoso&hide=css&langs_count=6&layout=compact&theme=tokyonight&bg_color=DEG,001,002,003"/> 
+</div>
+
+##
+
+
+
+<!-- - 👋 Hi, I’m @gutoso
 - 👀 I’m interested in expand knowledge related to programming.
 - 🌱 I’m developer in HTML5, CSS, PHP, JavaScript, Java, PostGreSQL, among others.
 - 👽 I’m looking to collaborate on open source projects! 
@@ -42,8 +53,8 @@
   <a href = "mailto:joaoaugustolanjoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <!-- ![Snake animation](https://github.com/gutoso/gutoso/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+
+<!-- Aqui apaga </div> -->
 
 <!---
 👻 thank you 👻
