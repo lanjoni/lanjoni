@@ -9,7 +9,7 @@
 <div align="left">
 <p> - 👋 Hello, I’m @gutoso! </p>
 <p> - 💻 I’m interested in expand knowledge related to programming! </p>
-<p> - 💎 I’m developer in Java, JavaScript, TypeScript, Crystal, among others... </p>
+<p> - 💎 I’m developer in PHP, Java, JavaScript, TypeScript, Crystal, among others... </p>
 <p> - 🔮 I’m looking to collaborate on open source projects! </p>
 <p> - 📫 How to reach me: @gutolanjoni on Twitter or send me an email at joaoaugustolanjoni@gmail.com! </p>
 </div>
