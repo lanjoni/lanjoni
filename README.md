@@ -20,7 +20,7 @@
 
 <div align="center">
 <img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoso&show_icons=true&theme=tokyonight&bg_color=DEG,001,002,003&hide=contribs"/>
-<img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoso&hide=css&langs_count=6&layout=compact&theme=tokyonight&bg_color=DEG,001,002,003"/> 
+<img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoso&hide=css,cmake&langs_count=6&layout=compact&theme=tokyonight&bg_color=DEG,001,002,003"/> 
 </div>
 
 ##
