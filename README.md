@@ -7,7 +7,7 @@
 <img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" min-width="100px" max-width="200px" width="150px" align="right" alt="Linux">
 
 <div align="left">
-<p> - 👋 Hello, I’m @gutoso! </p>
+<p> - 👋 Hello, I’m @lanjoni! </p>
 <p> - 💻 I’m interested in expand knowledge related to programming! </p>
 <p> - 💎 I’m developer in PHP, Java, JavaScript, TypeScript, Crystal, among others... </p>
 <p> - 🔮 I’m looking to collaborate on open source projects! </p>
@@ -19,8 +19,8 @@
 </div>
 
 <div align="center">
-<img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoso&show_icons=true&theme=tokyonight&bg_color=DEG,001,002,003&hide=contribs"/>
-<img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoso&hide=css,cmake,html&langs_count=6&layout=compact&theme=tokyonight&bg_color=DEG,001,002,003"/> 
+<img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=lanjoni&show_icons=true&theme=tokyonight&bg_color=DEG,001,002,003&hide=contribs"/>
+<img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanjoni&hide=css,cmake,html&langs_count=6&layout=compact&theme=tokyonight&bg_color=DEG,001,002,003"/> 
 </div>
 
 ##
