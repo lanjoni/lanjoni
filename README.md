@@ -4,7 +4,7 @@
 
 <!-- <img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" min-width="100px" max-width="200px" width="180px" align="right" alt="Linux"> -->
   
-<img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" min-width="100px" max-width="200px" width="150px" align="right" alt="Linux">
+<!-- <img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" min-width="100px" max-width="200px" width="150px" align="right" alt="Linux"> -->
 
 <div align="left">
 <p> - 👋 Hello, I’m @lanjoni! </p>
